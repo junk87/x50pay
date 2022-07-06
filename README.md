@@ -1,6 +1,10 @@
 # x50pay
 
-A new Flutter project.
+此專案為搭載了X50 pay服務的Android App
+
+# 使用
+
+請將本專案下載下來，
 
 ## Getting Started
 
